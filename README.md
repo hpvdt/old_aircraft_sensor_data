@@ -1,2 +1,2 @@
 # aircraft_sensor_data
-Will include preliminary arduino code for the altitude, wind speed, heading, etc.
+Archived arduino code for the altitude, orientation, and pressure. Refer to Aircraft Data for new sensor stuff
